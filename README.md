@@ -6,6 +6,8 @@ Generate a random password from 4 to 32 characters, choosing lowercase, uppercas
 
 ![Password generator with an 18-character password, length slider and character options](docs/screenshot.jpg)
 
+![Animated demo: generating passwords of 12, 16, 20 and 24 characters](docs/demo.gif)
+
 ## Built with
 
 Plain HTML, CSS and JavaScript.
