@@ -2,7 +2,7 @@
 
 Generate a random password from 4 to 32 characters, choosing lowercase, uppercase, numbers and symbols, then copy it with one click.
 
-**Live:** https://jeevan2410.github.io/RandomPasswordGenerator/
+**Live:** https://3t3rn4tu5.github.io/RandomPasswordGenerator/
 
 ![Password generator with an 18-character password, length slider and character options](docs/screenshot.jpg)
 
